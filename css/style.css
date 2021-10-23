@@ -1,12 +1,12 @@
 body {
-    background-image: url('../img/background-image.jpg');
+    background-image: url('/img/background-image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .download{
     font-family: Hack,monospace;
-    background: #0f0f6d;
+    background: #FF1238;
     color: #fff;
     cursor: pointer;
     font-size: 2em;
